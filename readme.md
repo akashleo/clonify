@@ -4,6 +4,8 @@ Folder structure updated.
 Components updated.
 App.js updated
 
+Readme updated again
+
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
