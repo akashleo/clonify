@@ -3,6 +3,8 @@ new features will be updated.
 Folder structure updated.
 Components updated.
 App.js updated
+package.json updated
+
 
 Readme updated again
 
