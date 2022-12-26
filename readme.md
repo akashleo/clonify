@@ -5,6 +5,7 @@ Components updated.
 App.js updated
 package.json updated
 index.jsx updated
+project folders updated
 
 Readme updated again
 
